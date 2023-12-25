@@ -1,0 +1,4 @@
+repository "unity入门实践小项目@wechat_os_qy0-tdvr6e-i6dxlpqbb6gze0@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
